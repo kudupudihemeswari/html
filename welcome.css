@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width:100%;
+}
+/* h1{ */
+    color:red;
+    font-size: 100px;
+    font-weight: 1000;
+    font-family: Georgia;
+    
+}
+p{
+    max-width: 100px;
+}
+a{
+    text-decoration: none;
+    color:blueviolet;
+}
+h1{
+    background-color: bisque;
+    max-width: 100px;
+    padding: 0px 0px 10px 0px;
+    padding: 5px 10px 5px 5px;
+    margin-left: 20px;
+}
